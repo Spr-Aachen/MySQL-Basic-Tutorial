@@ -1,2 +1,2 @@
 # MySQL-Basic-Tutorial
-A basic tutorial for total beginners, including how to setup
+一个面向完全初学者的MySQL教学，包括如何安装
